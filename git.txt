@@ -19,4 +19,9 @@ master commit
 master modify
 
 featurel commti
+<<<<<<< HEAD
 new commit 试试stash 用我本身来试试
+=======
+new commit 试试stash
+用dev分支来进行开发试试
+>>>>>>> 38a4ecef4723f38ed5b67da753fc20efe1642e18
