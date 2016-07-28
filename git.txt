@@ -19,4 +19,4 @@ master commit
 master modify
 
 featurel commti
-new commit
+new commit  ‘ ‘stash
