@@ -19,4 +19,4 @@ master commit
 master modify
 
 featurel commti
-new commit 试试stash
+new commit 试试stash 用我本身来试试
